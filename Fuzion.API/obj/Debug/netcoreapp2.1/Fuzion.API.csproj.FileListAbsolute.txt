@@ -1,0 +1,14 @@
+C:\DEV\Repos\Fuzion\Fuzion.API\bin\Debug\netcoreapp2.1\Fuzion.API.deps.json
+C:\DEV\Repos\Fuzion\Fuzion.API\bin\Debug\netcoreapp2.1\Fuzion.API.runtimeconfig.json
+C:\DEV\Repos\Fuzion\Fuzion.API\bin\Debug\netcoreapp2.1\Fuzion.API.runtimeconfig.dev.json
+C:\DEV\Repos\Fuzion\Fuzion.API\bin\Debug\netcoreapp2.1\Fuzion.API.dll
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.csprojAssemblyReference.cache
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.csproj.CoreCompileInputs.cache
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.RazorAssemblyInfo.cache
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.RazorAssemblyInfo.cs
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.AssemblyInfoInputs.cache
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.AssemblyInfo.cs
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.RazorTargetAssemblyInfo.cache
+C:\DEV\Repos\Fuzion\Fuzion.API\bin\Debug\netcoreapp2.1\Fuzion.API.pdb
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.dll
+C:\DEV\Repos\Fuzion\Fuzion.API\obj\Debug\netcoreapp2.1\Fuzion.API.pdb
